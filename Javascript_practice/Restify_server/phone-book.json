@@ -1,0 +1,20 @@
+{
+    "person-1" : {
+       "name" : "Mahendra",
+       "phone-number" : "9282671829",
+       "id": 1
+    },
+   
+    "person-2" : {
+       "name" : "Satya",
+       "phone-number" : "8816791737",
+       "id": 2
+    },
+   
+    "person-3" : {
+       "name" : "Roshan",
+       "phone-number" : "9273918281",
+       "id": 3
+    } 
+ }
+ 
